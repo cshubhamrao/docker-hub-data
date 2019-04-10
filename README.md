@@ -35,3 +35,6 @@ Beyond point 5, I'd ask for the following general inferences.
 1. Kinds of content popular at any given point (standalone images, what kind? Applications or collections of images, what kind?)
 2. Are you able to correlate this with general industry trends at any given point in time. 
 3. What do you think users will gravitate to in the future.
+
+## System Architecture:
+![Architecture](https://raw.githubusercontent.com/cshubhamrao/docker-hub-data-x/master/Datax_architecture.png?token=AKwZXUNwqEPw3oqPAbLZV1yidC54mo5Kks5ct7AZwA%3D%3D)
