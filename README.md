@@ -13,4 +13,4 @@ and partners create, test, store and distribute container images.
 - Tanmay Agarwal
 
 # System Architecture:
-![Architecture](https://raw.githubusercontent.com/cshubhamrao/docker-hub-data-x/master/Datax_architecture.png?token=AKwZXUNwqEPw3oqPAbLZV1yidC54mo5Kks5ct7AZwA%3D%3D)
+![Architecture](Datax_architecture.png)
