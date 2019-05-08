@@ -8,6 +8,9 @@ Our goal is to provide different companies with a dynamic dataset through which 
 Under the mentorship of Nandhini from Docker, our aim is to gather data from Docker Hub and analyse the trends. Docker Hub is a cloud-based repository in which Docker users and partners create, test, store and distribute container images.
 
 # Requirements
+We use Conda to manage the environment and packages.
+
+We use the following packages (among many others):
 - Python 3.6 or above
 - Pandas
 - Matplotlib
@@ -18,16 +21,28 @@ Under the mentorship of Nandhini from Docker, our aim is to gather data from Doc
 # Installation
 #### 1. Downloading this Respository
 Start by [downloading](https://github.com/cshubhamrao/docker-hub-data-x.git) or cloning this repository.
-```
-  $ git clone https://github.com/cshubhamrao/docker-hub-data-x.git
-  $ cd docker-hub-data-x
+```bash
+  git clone https://github.com/cshubhamrao/docker-hub-data-x.git
+  cd docker-hub-data-x
 ```
 
-#### 2. Install Dependencies
-Install dependencies from ```reqirements.txt``` file.
+#### 2. Create and Activate Environment
+Create the conda environment from the `environment.yml` file:
 
+```bash
+  conda env create -f environment.yml
 ```
-  pip install -r requirements.txt
+
+Now activate the environment by:
+
+```bash
+  conda activate docker-hub
+```
+
+#### 3. Run Jupyter Lab
+
+```bash
+  jupyter lab
 ```
 
 # Contents
