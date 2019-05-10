@@ -140,3 +140,6 @@ pip-selfcheck.json
 .idea/**/dbnavigator.xml
 
 *data*.json
+
+# VS Code
+.vscode/settings.json
