@@ -18,6 +18,12 @@ We use the following packages (among many others):
 - Seaborn
 - boto3
 
+To fetch new ```.json``` files from the AWS S3 bucket
+```bash
+cd data/
+aws s3 sync s3://docker-recent recent-data
+```
+
 # Installation
 #### 1. Downloading this Respository
 Start by [downloading](https://github.com/cshubhamrao/docker-hub-data-x/archive/master.zip) or cloning this repository.
