@@ -7,9 +7,10 @@ developers to know more about a docker image.
 Our goal is to provide different companies with a dynamic dataset through which meaningful 
 inferences can be made.
 
-Under the mentorship of Nandhini from Docker, our aim is to gather data from Docker Hub and analyse 
-the trends. Docker Hub is a cloud-based repository in which Docker users and partners create, test, 
-store and distribute container images.
+Our aim is to gather data from Docker Hub and analyse the trends. Docker Hub is a cloud-based 
+repository in which Docker users and partners create, test, store and distribute container images.
+
+This project was developed as part of coursework for [Data-X at Berkeley](https://data-x.blog).
 
 # Requirements
 We use Conda to manage the environment and packages.
@@ -33,7 +34,7 @@ aws s3 sync s3://docker-recent recent-data
 Start by [downloading](https://github.com/cshubhamrao/docker-hub-data-x/archive/master.zip) or 
 cloning this repository.
 ```bash
-git clone https://github.com/cshubhamrao/docker-hub-data-x.git
+git clone https://github.com/cshubhamrao/docker-hub-data.git
 cd docker-hub-data-x
 ```
 
