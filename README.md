@@ -12,6 +12,7 @@ repository in which Docker users and partners create, test, store and distribute
 
 This project was developed as part of coursework for [Data-X at Berkeley](https://data-x.blog).
 
+[Link to supporting presentation](https://docs.google.com/presentation/d/e/2PACX-1vRYW2h1RpzSf2xW9IkXTWE1dO0OaSB1LDanfV2A3b3Xwh-b_ysXvjpMaLppG9HBf57lRPmBay9EY7ZJ/pub?start=false&loop=true&delayms=5000)
 # Requirements
 We use Conda to manage the environment and packages.
 
